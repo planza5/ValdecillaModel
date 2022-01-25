@@ -1,0 +1,2 @@
+include ':valdecilla-model'
+rootProject.name='ValdecillaModel'
